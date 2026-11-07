@@ -1,0 +1,27 @@
+{
+  "post": "04_clear.txt",
+  "rules": {
+    "minimum_cgpa": 6.8,
+    "minimum_tenth": null,
+    "minimum_twelfth": null,
+    "branches": [
+      "ece"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 1,
+    "placed_status": 0
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 3,
+  "student_ids": [
+    "STU202",
+    "STU242",
+    "STU272"
+  ],
+  "draft_preview": [
+    "Placement Notice: 04 clear",
+    "Eligibility: CGPA >= 6.8; Branches: ECE.",
+    "3 eligible students are currently identified."
+  ]
+}

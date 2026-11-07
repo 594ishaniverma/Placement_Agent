@@ -1,0 +1,34 @@
+{
+  "post": "08_or.txt",
+  "rules": {
+    "minimum_cgpa": 7.5,
+    "minimum_tenth": null,
+    "minimum_twelfth": null,
+    "branches": [
+      "cse",
+      "ece"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 1,
+    "placed_status": null
+  },
+  "ambiguous": true,
+  "ambiguity_reasons": [
+    "The post contains an ambiguous OR rule."
+  ],
+  "eligible_count": 7,
+  "student_ids": [
+    "STU202",
+    "STU210",
+    "STU230",
+    "STU250",
+    "STU252",
+    "STU260",
+    "STU272"
+  ],
+  "draft_preview": [
+    "Placement Notice: 08 or",
+    "Eligibility: CGPA >= 7.5; Branches: CSE, ECE.",
+    "7 eligible students are currently identified."
+  ]
+}

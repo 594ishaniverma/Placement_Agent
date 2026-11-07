@@ -1,0 +1,29 @@
+{
+  "post": "05_twelfth.txt",
+  "rules": {
+    "minimum_cgpa": 7.2,
+    "minimum_tenth": 70.0,
+    "minimum_twelfth": 70.0,
+    "branches": [
+      "cse",
+      "it"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 1,
+    "placed_status": null
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 4,
+  "student_ids": [
+    "STU210",
+    "STU230",
+    "STU250",
+    "STU260"
+  ],
+  "draft_preview": [
+    "Placement Notice: 05 twelfth",
+    "Eligibility: CGPA >= 7.2; Class X >= 70%; Class XII >= 70%; Branches: CSE, IT.",
+    "4 eligible students are currently identified."
+  ]
+}

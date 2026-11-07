@@ -1,0 +1,27 @@
+{
+  "post": "09_clear.txt",
+  "rules": {
+    "minimum_cgpa": 8.0,
+    "minimum_tenth": 70.0,
+    "minimum_twelfth": 70.0,
+    "branches": [
+      "cse",
+      "it"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 0,
+    "placed_status": 0
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 2,
+  "student_ids": [
+    "STU230",
+    "STU250"
+  ],
+  "draft_preview": [
+    "Placement Notice: 09 clear",
+    "Eligibility: CGPA >= 8.0; Class X >= 70%; Class XII >= 70%; Branches: CSE, IT.",
+    "2 eligible students are currently identified."
+  ]
+}

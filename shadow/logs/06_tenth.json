@@ -1,0 +1,26 @@
+{
+  "post": "06_tenth.txt",
+  "rules": {
+    "minimum_cgpa": 7.5,
+    "minimum_tenth": 75.0,
+    "minimum_twelfth": null,
+    "branches": [
+      "cse"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 0,
+    "placed_status": null
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 2,
+  "student_ids": [
+    "STU210",
+    "STU250"
+  ],
+  "draft_preview": [
+    "Placement Notice: 06 tenth",
+    "Eligibility: CGPA >= 7.5; Class X >= 75%; Branches: CSE.",
+    "2 eligible students are currently identified."
+  ]
+}

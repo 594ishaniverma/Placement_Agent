@@ -1,0 +1,30 @@
+{
+  "post": "10_clear.txt",
+  "rules": {
+    "minimum_cgpa": 6.5,
+    "minimum_tenth": null,
+    "minimum_twelfth": null,
+    "branches": [
+      "ece"
+    ],
+    "graduation_year": 2027,
+    "maximum_backlogs": 2,
+    "placed_status": 0
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 6,
+  "student_ids": [
+    "STU207",
+    "STU227",
+    "STU237",
+    "STU257",
+    "STU267",
+    "STU277"
+  ],
+  "draft_preview": [
+    "Placement Notice: 10 clear",
+    "Eligibility: CGPA >= 6.5; Branches: ECE.",
+    "6 eligible students are currently identified."
+  ]
+}

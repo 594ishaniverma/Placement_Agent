@@ -1,0 +1,42 @@
+{
+  "post": "07_vague.txt",
+  "rules": {
+    "minimum_cgpa": null,
+    "minimum_tenth": null,
+    "minimum_twelfth": null,
+    "branches": [
+      "it"
+    ],
+    "graduation_year": null,
+    "maximum_backlogs": null,
+    "placed_status": null
+  },
+  "ambiguous": true,
+  "ambiguity_reasons": [
+    "The post contains an ambiguous OR rule."
+  ],
+  "eligible_count": 16,
+  "student_ids": [
+    "STU201",
+    "STU206",
+    "STU211",
+    "STU216",
+    "STU221",
+    "STU226",
+    "STU231",
+    "STU236",
+    "STU241",
+    "STU246",
+    "STU251",
+    "STU256",
+    "STU261",
+    "STU266",
+    "STU271",
+    "STU276"
+  ],
+  "draft_preview": [
+    "Placement Notice: 07 vague",
+    "Eligibility: Branches: IT.",
+    "16 eligible students are currently identified."
+  ]
+}

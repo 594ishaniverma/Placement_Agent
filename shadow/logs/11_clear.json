@@ -1,0 +1,25 @@
+{
+  "post": "11_clear.txt",
+  "rules": {
+    "minimum_cgpa": 7.0,
+    "minimum_tenth": null,
+    "minimum_twelfth": null,
+    "branches": [
+      "mechanical"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 1,
+    "placed_status": null
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 1,
+  "student_ids": [
+    "STU228"
+  ],
+  "draft_preview": [
+    "Placement Notice: 11 clear",
+    "Eligibility: CGPA >= 7.0; Branches: MECHANICAL.",
+    "1 eligible students are currently identified."
+  ]
+}

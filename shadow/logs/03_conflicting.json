@@ -1,0 +1,38 @@
+{
+  "post": "03_conflicting.txt",
+  "rules": {
+    "minimum_cgpa": 7.0,
+    "minimum_tenth": null,
+    "minimum_twelfth": null,
+    "branches": [
+      "cse",
+      "it",
+      "ece"
+    ],
+    "graduation_year": 2026,
+    "maximum_backlogs": 1,
+    "placed_status": null
+  },
+  "ambiguous": false,
+  "ambiguity_reasons": [],
+  "eligible_count": 12,
+  "student_ids": [
+    "STU202",
+    "STU210",
+    "STU216",
+    "STU230",
+    "STU242",
+    "STU246",
+    "STU250",
+    "STU252",
+    "STU256",
+    "STU260",
+    "STU272",
+    "STU276"
+  ],
+  "draft_preview": [
+    "Placement Notice: 03 conflicting",
+    "Eligibility: CGPA >= 7.0; Branches: CSE, IT, ECE.",
+    "12 eligible students are currently identified."
+  ]
+}
